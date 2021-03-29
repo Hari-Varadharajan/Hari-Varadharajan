@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hari-Varadharajan
+- 👋 Hi, I’m Hari Varadharajan
 - 👀 I’m interested in Exploring Apps
 - 🌱 I’m currently learning Flutter and stuffs
 
